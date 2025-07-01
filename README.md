@@ -1,9 +1,10 @@
-# 🗺 Matruka's Portfolio
+# Matruka's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to curated showcase of my data projects and analytical work. 
 
 ## 📚 Table of Contents
 - [Data Engineering - Azure](#data-engineering)
+  Data Analysis
 - [SQL](#sql)
 - [Python](#python)
 - [Power BI](#power-bi)
