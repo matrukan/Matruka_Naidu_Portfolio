@@ -54,3 +54,8 @@ Welcome to curated showcase of my data projects and analytical work.
 |---|---|---|
 | 📺 [Netflix Content Analysis ](https://github.com/matrukan/Netflix_Tableau_Project/tree/main) | This project explores Netflix content using Tableau. It provides insights into the distribution of movies and TV shows across countries, genre popularity, and content ratings. | [Dashboard Preview](https://github.com/matrukan/Netflix_Tableau_Project/blob/main/images/netflix_dashboard_preview.png) |
 | 📦 [Amazon Sales Analysis](https://github.com/matrukan/Amazon-Sales-Analysis) |This project analyzes Amazon sales performance across various dimensions using Tableau and a provided sales dataset. | [Dashboard](https://github.com/matrukan/Amazon-Sales-Analysis/tree/main/dashboard) |
+
+## Acknowledgment
+
+Special thanks to [Katie Huang](https://github.com/katiehuangx) for her excellent guide and inspiration in creating this portfolio.
+
