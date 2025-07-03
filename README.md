@@ -15,7 +15,7 @@ Welcome to curated showcase of my data projects and analytical work.
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🏍️ [AdventureWorks Sales - Azure](https://github.com/matrukan/AdventureWorks-Azure) | June 2025 | Azure(Data Factory, DataLake Gen2, Databricks,PySpark, Azure SQL, Synapse Analytics),Power BI | ........... |
+| 🏍️ [AdventureWorks Sales - Azure](https://github.com/matrukan/AdventureWorks-Azure) | June 2025 | Azure(Data Factory, DataLake Gen2, Databricks,PySpark, Azure SQL, Synapse Analytics),Power BI | This project presents a complete data engineering solution using Microsoft Azure. It covers the entire lifecycle—from data ingestion to transformation and visualization—using tools like Azure Data Factory, Azure Databricks, Synapse Analytics, and Power BI. The dataset used is AdventureWorks, a well-known sample business dataset hosted on GitHub. |
 | 📺 [Amazon Prime Dataset - Azure](https://github.com/matrukan/amazonPrimeDataset) | June 2025 | Azure(Data Factory, DataLake Gen2, Databricks,PySpark, Blob Storage),Power BI | -------- |
 
 ***
