@@ -3,8 +3,8 @@
 Welcome to curated showcase of my data projects and analytical work. 
 
 ## 📚 Table of Contents
-### Data Engineering
-- [Azure](#data-engineering)
+### Data Engineering + Data Analysis
+- [Azure](#data-engineering) 
 ### Data Analysis
 - [SQL](#sql)
 - [Python](#python)
