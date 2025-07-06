@@ -3,15 +3,15 @@
 Welcome to curated showcase of my data projects and analytical work. 
 
 ## 📚 Table of Contents
-### Data Engineering + Data Analysis
-- [Azure & Power BI](#data-engineering-+-data-analysis) 
+### Data Engineering & Data Analysis
+- [Azure & Power BI](#data-engineering-analysis) 
 ### Data Analysis
 - [SQL](#sql)
 - [Python](#python)
 - [Power BI](#power-bi)
 - [Tableau](#tableau)
 
-# Data Engineering + Data Analysis
+# Data Engineering & Analysis
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
