@@ -4,7 +4,7 @@ Welcome to curated showcase of my data projects and analytical work.
 
 ## 📚 Table of Contents
 ### Data Engineering + Data Analysis
-- [Azure & Power BI](#data-engineering_data-analysis) 
+- [Azure & Power BI](#data-engineering-+-data-analysis) 
 ### Data Analysis
 - [SQL](#sql)
 - [Python](#python)
